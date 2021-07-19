@@ -6,7 +6,7 @@ We've made a python script to assist you.
 1. Download this repo
 2. Move the sign-intermediate-cert.py to your chia-blockchain folder
 ```
-cp ~/Downloads/sign-intermediate-cert.py ~/chia-blockchain
+cp ~/Downloads/guides-main/sign-intermediate-cert.py ~/chia-blockchain
 ```
 3. In the chia-blockchain directory run the following:
 ```
