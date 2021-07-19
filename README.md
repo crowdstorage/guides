@@ -12,6 +12,6 @@ cp ~/Downloads/sign-intermediate-cert.py ~/chia-blockchain
 ```
 cd ~/chia-blockchain
 . ./activate
-./sign-intermediate-cert.py
+python3 sign-intermediate-cert.py
 ```
 4. Email us the signed certificate the script creates. It will be named crowdstorage_intermediate.crt
